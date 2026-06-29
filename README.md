@@ -33,8 +33,4 @@
 </div>
 
 
-<div align="center">
-  <a href="https://github.com/skipsxbt/loredger">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skipsxbt&repo=loredger&theme=tokyonight&show_icons=true" alt="Loredger Project Card" />
-  </a>
-</div>
+
