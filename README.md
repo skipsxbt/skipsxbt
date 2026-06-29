@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi, I'm Yusuf! 👋
 
-<!--
-**skipsxbt/skipsxbt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=B300FF&center=false&vCenter=true&width=500&lines=Full-Stack+Developer;Python+%26+Web3+Enthusiast;Always+building+cool+things" alt="Typing SVG" />
+</a>
 
-Here are some ideas to get you started:
+**About Me:**
+- 🔭 I’m currently developing smart contracts for **Web3 applications** on the **Base network**.
+- 🌱 I mostly work with **Python**, **C#**, **TypeScript**, and **SQL** databases.
+- 🚀 I usually deploy my projects on **Vercel**.
+- ⚡ Fun fact: When I have free time, I play competitive shooters and simulation games (CS2, Valorant).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech Stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=yusufduzgun&color=blueviolet&style=flat-square" alt="Profile Views Counter" />
+</div>
