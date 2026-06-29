@@ -23,3 +23,11 @@
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=yusufduzgun&color=blueviolet&style=flat-square" alt="Profile Views Counter" />
 </div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yusufduzgun/yusufduzgun/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yusufduzgun/yusufduzgun/output/github-contribution-grid-snake.svg">
+    <img alt="Yusuf's GitHub Contribution Snake" src="https://raw.githubusercontent.com/yusufduzgun/yusufduzgun/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
