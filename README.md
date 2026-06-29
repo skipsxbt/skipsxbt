@@ -31,3 +31,10 @@
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/skipsxbt/skipsxbt/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+
+<div align="center">
+  <a href="https://github.com/skipsxbt/loredger">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skipsxbt&repo=loredger&theme=tokyonight&show_icons=true" alt="Loredger Project Card" />
+  </a>
+</div>
