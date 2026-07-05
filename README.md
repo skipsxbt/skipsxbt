@@ -34,3 +34,4 @@
 
 
 
+![GitHub Stats](<Ekran görüntüsü 2026-07-05 155336.png>)
